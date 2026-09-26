@@ -25,3 +25,9 @@ Write isEven(num) that returns true if the number is even and false otherwise.
 Write findMax(a, b) that returns the larger number.
 Convert this normal function into an arrow function:
 Create an arrow function cube using implicit return:
+
+6. Arrays
+   array kiya hoti ha
+   array k elements ko kesy access kiya jata ha
+   array k all elements ko log krwa skty hn
+   array k andar element ko add ksy krna
