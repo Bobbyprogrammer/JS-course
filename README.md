@@ -31,3 +31,9 @@ Create an arrow function cube using implicit return:
    array k elements ko kesy access kiya jata ha
    array k all elements ko log krwa skty hn
    array k andar element ko add ksy krna
+
+7. map()
+
+8. filter()
+
+9. find()
