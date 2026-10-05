@@ -37,3 +37,5 @@ Create an arrow function cube using implicit return:
 8. filter()
 
 9. find()
+
+10. objects
