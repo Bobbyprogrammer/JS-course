@@ -39,3 +39,5 @@ Create an arrow function cube using implicit return:
 9. find()
 
 10. objects
+
+11. Destructuring, Spread and Rest
