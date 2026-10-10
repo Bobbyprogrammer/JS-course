@@ -41,3 +41,5 @@ Create an arrow function cube using implicit return:
 10. objects
 
 11. Destructuring, Spread and Rest
+
+12. Scope, Hoisting and Closures
