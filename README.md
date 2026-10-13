@@ -43,3 +43,5 @@ Create an arrow function cube using implicit return:
 11. Destructuring, Spread and Rest
 
 12. Scope, Hoisting and Closures
+
+13. DOM Basics

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <h1 id="title">Hello, World!</h1>
+    <button id="btn">Change Text</button>
+    <br />
+    <input id="name" />
+    <button id="submit">Submit</button>
+
+    <script>
+      //   const title = document.getElementById("title");
+      //   const button = document.getElementById("btn");
+
+      //   button.addEventListener("click", () => {
+      //     title.innerText = "Welcome to Javascript";
+      //   });
+
+      const input = document.querySelector("#name");
+      const button = document.querySelector("#submit");
+
+      button.addEventListener("click", () => {
+        console.log(input.value);
+      });
+    </script>
+  </body>
+</html>
