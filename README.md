@@ -45,3 +45,5 @@ Create an arrow function cube using implicit return:
 12. Scope, Hoisting and Closures
 
 13. DOM Basics
+
+14. Modern JavaScript Features

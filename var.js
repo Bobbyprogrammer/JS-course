@@ -1,3 +1,7 @@
+// import { add } from "./modern.js";
+
+// console.log(add(10, 20));
+
 // let name = "Deepak";
 
 // name = "Babar";
