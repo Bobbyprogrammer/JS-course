@@ -47,3 +47,4 @@ Create an arrow function cube using implicit return:
 13. DOM Basics
 
 14. Modern JavaScript Features
+15. Async JavaScript
