@@ -48,3 +48,22 @@ Create an arrow function cube using implicit return:
 
 14. Modern JavaScript Features
 15. Async JavaScript
+
+16. Error Handling
+17. Important JavaScript Concepts Before React
+
+// Exercise
+
+const students = [
+{ name: "Ali", marks: 80 },
+{ name: "Ahmed", marks: 45 },
+{ name: "Usman", marks: 70 },
+{ name: "Hamza", marks: 30 }
+];
+
+Print every student's name.
+Find students with marks >= 50.
+Find Ahmed.
+Create a new array containing only names.
+Calculate average marks.
+This single exercise tests forEach, filter, find, map, and reduce.
